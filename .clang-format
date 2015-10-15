@@ -1,0 +1,9 @@
+Language: Cpp
+BasedOnStyle: Google
+
+AlignEscapedNewlinesLeft: false
+ColumnLimit: 80
+SpacesBeforeTrailingComments: 1
+Standard: C++11
+TabWidth: 2
+UseTab: Always
